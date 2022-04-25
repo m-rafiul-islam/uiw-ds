@@ -1,0 +1,98 @@
+
+6 effective ways to use word clouds to increase audience engagement
+Word clouds can be a highly effective tool to boost interaction in online, hybrid or F2F lectures or meetings. This visualization tool collates words that audience participants have submitted via an ARS (online audience response system) and enlarges the most popular words that have been sent in. Therefore, making it easier for any presenter to understand what the audience is thinking.
+
+Word clouds can be used in many ways to engage an audience and for collecting feedback, but here are 6 effective and popular ways to utilize word clouds.  
+
+
+1. Crowdsourcing
+A very popular way of using word clouds is to gather ideas from your audience and to visualize the most popular responses as voted by the 'crowd'. This approach can increase collaboration and interaction, as well as provide a great starting point for discussions.
+
+Diversity is great for creativity, so putting forward a question to your whole audience that will allow you to see innovative ideas and various suggestions in a word cloud format is a highly effective way to brainstorm. 
+
+
+2. Entertainment and humour
+We all want our presentations to be memorable and to make an impact on our audience. 'Death by PowerPoint' is unacceptable and can easily be avoided by using some of these word cloud techniques to increase interaction with your audience. Using humour in the right way has been shown to have a positive impact in increasing attention and audience engagement. 
+
+Word clouds can be helpful to create memorable moments as you can ask humorous or topical questions. For instance, a lecturer from Liverpool John Moores University used Vevox's word cloud to ask a humourous question on Donald Trump - "Describe Donald Trump in 5 words". As you can see by the word cloud image below, the responses certainly caused a reaction from the audience and made this a presentation to remember. 
+
+3. Icebreakers 
+Using word clouds to break the ice before you get stuck into your presentation content is key to setting the scene and putting your audience at ease. It also allows you to test your word cloud in a more relaxed environment and makes your audience familiar with the app before running any other polls in your session. This way there are no surprises and you've instantly started your presentation on the right foot. 
+
+There are plenty of brilliant icebreaker questions that you can ask your audience, but our advice is to make the question simple and relevant. For instance, "how did you travel here?" - this question is relatable, it brings everyone together and it's easy to answer which is perfect for breaking the ice.
+
+4. Quizzing
+Testing your audience on what they have learnt during your presentation is useful for measuring knowledge retention levels and for identifying the impact of your different sub-topics. 
+
+Utilizing word clouds for quiz-style questions can also help make your session more interactive, fun and inclusive. If you wanted to, you could even gamify this quiz question by rewarding the individuals that got the question(s) right. 
+
+5. Collecting feedback 
+
+Attaining live feedback is useful for several reasons. Instant feedback can help you understand what your audience is thinking at that point in time allowing you to adapt your session based on this audience feedback. 
+
+Word clouds help any presenter by giving a snapshot of live feedback from your audience in seconds. By using word cloud polls that are anonymous and are live this helps to give a clear indication of what your audience is really thinking. Anonymity is well-known for gaining honest, uninhibited feedback because a person's identity is private. 
+
+6. Summarizing 
+If you're wanting to extract particular ideas from a general topic or to find out what the audience wants to focus on, then word clouds are great for doing so. For presenters, this enables valuable insight into commonly perceived audience responses and their reactions to the topic. You can then breakdown the discussion into chunks by concentrating on the popular key words.
+
+
+The Pros and Cons of Word Clouds as Visualization
+The Pros
+visualization tools 
+It reveals the essential. Brand names pop and key words float to the surface.
+They delight and provide emotional connection. Both the creation of a word-cloud and the observation of one help to provide an overall sense of the text. The same visceral response doesn't happen when staring at a page of text.
+They're fast. Poring over text to develop themes from research takes time.
+They're engaging. Visual representation of data tends to have an impact and generates interest amongst the audience. For your client, it may stimulate more questions than it answers, but that's often a good entry point to discussion. In addition, Christy Ransom recently mentioned how word clouds are a great way to show themes for engaging your community panel members. Word clouds can allow you to share back results from research in a way that doesn't require an understanding of the technicalities.
+ 
+
+The Cons
+Size isn't everything. Although the Word Cloud is designed to make words stand out according to their size based on their frequency of occurrence, other factors can affect the visual 'decoding' of the data from the observer's perspective. For example, the length of the word and the white space around the glyphs (letters) can make it look more or less important relative to others in the cloud. This can mislead your interpretation.
+Consider this example where "titillate" and "erroneous" both have nine letters and the same weight in the word cloud. They appear to be very different sizes because of the shape of the glyphs.
+
+2- the pros and cons of word clouds as visualizations
+
+Colour me silly. In a recent blog post, Noah Marconi noted how colour should communicate not confuse. Most word cloud generators randomly assign colours to words from a pallet. If it were available these generators could improve the understanding of the text in at least three ways:
+Use similar colours for words that tend to be near each other in a sample of text
+Highlight words that appear in one sample of text but not in another
+Show two sample texts in the same wordle, each with its own colour
+Fonts shouldn't decorate. Although they're fun, decorative fonts often sacrifice communication. Avoid fonts that over-complicate the data and always aim for legibility.
+Counting is not comparing. Showing the frequency that a word shows up can be somewhat basic. Many cloud creators have ways of removing common joiners like "the", "and", "it" and some let you customize this list further to clarify remove noise. However, any sort of comparison to normative text can heighten the understanding further. Consider the example of asking survey respondents likes and dislikes of product concepts. You could compare the lists of likes on one concept to likes on another and then create a cloud of the unique words.
+
+
+
+
+What is a Word Cloud?
+A word cloud (also known as a tag cloud) is a visual representation of words.
+
+Cloud creators are used to highlight popular words and phrases based on frequency and relevance. They provide you with quick and simple visual insights that can lead to more in-depth analyses.
+
+
+What is a Word Cloud and Why Should I Use One?
+what is a word cloud 
+What are the benefits of using a Word Cloud? 
+Word Clouds help reveal what your audience really think 
+Understand what your audience/employees feel about a topic/situation
+Your audience can summarise their view of a topic
+Allows you to measure change when used at the start and end of an intervention/workshop
+You can measure audience understanding of a topic
+Allows you to identify what is important to your audience
+Brainstorm concepts or ideas/ visualization
+Identify audience feedback in their own choice of words
+Identify new ideas/topics to target
+Facilitate peer to peer feedback/visualization
+Gather and present e.g. employee change readiness to stakeholders.
+Word Clouds are quick and informative
+The audience voting page enables the presenter to get live feedback from their audience in real time
+Word Clouds are exciting and emotional  
+The audience feel part of the presentation
+Provide an opportunity for co-creation of content
+The audience help drive the topic of discussion.
+Word Clouds are engaging
+The audience feel part of the presentation by contributing their answers.
+The audience are interested to see the responses from their fellow audience members.
+Word Clouds can be good icebreakers and can provide an entry point for a topic of discussion.
+Word Clouds are advanced visualization tools. 
+
+
+
+
